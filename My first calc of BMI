@@ -1,8 +1,5 @@
 # first calc
 
-import os
-import time 
-
 print('Добро пожаловать в калькулятор ИМТ!')
 
 sex = input('Выберите свой пол (м/ж): ')
